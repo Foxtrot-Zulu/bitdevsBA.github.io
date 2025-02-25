@@ -2,7 +2,7 @@
 base_url = "https://www.bitdevsba.org"
 
 title = "BitDevsBA"
-description = "BitDevsBA es una comunidad en Buenos aires para aquellos interesados en discutir y participar en la investigación y desarrollo de Bitcoin y protocolos y software relacionados."
+description = "BitDevsBA es una comunidad en Buenos Aires para aquellos interesados en discutir y participar en la investigación y desarrollo de Bitcoin y protocolos y software relacionados."
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
